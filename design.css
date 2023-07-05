@@ -1,12 +1,13 @@
 
 .BorderChanging{
-    background-color: aqua;
+    background-color: rgb(255, 64, 0);
     border: 10px solid cornflowerblue;
     border-radius: 20px;
     border-style:groove;
     margin: 10px;
     padding: 50px;
     text-align: justify;
+    
     
 }
 .TextChanging{
