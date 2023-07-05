@@ -1,0 +1,33 @@
+#frontpage{
+    height: 1000px;
+    background-image: url('study.jpg');
+    background-repeat:repeat-x;
+    background-size: 1000px;
+    background-color: aqua;
+    margin:50px;
+    padding: 50px;
+    border: 5px;
+    border-color:seagreen;
+ 
+}
+h1{
+    color:gold;
+    
+}
+.textediting{
+    background-color: black;
+    color: aliceblue;
+    border: 20px solid yellowgreen;
+    border-radius: 40px;
+    margin:20px;
+    padding: 10px;
+}
+.inlineoperation{
+    border: 4px solid violet;
+    color: aqua;
+}
+/* .gayebkorbo{
+    display: none;
+    visibility:hidden;
+
+} */
